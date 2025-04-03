@@ -1,0 +1,7 @@
+Name: aksjdhf
+Strength: 8
+Dexterity: 14 (+2)
+Constitution: 9
+Health Points: 19
+Armor Class: 13
+Weapon: Longsword (1d8)
