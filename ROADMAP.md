@@ -2,7 +2,7 @@
 
 ## Current State (v0.1)
 - Basic character creation and stat assignment.
-- Endless combat loop with goblin spawning.
+- Endless combat loop with goblin spawning. (Currently debugging!!!)
 - File-based HP and AC tracking.
 - "You died" end condition.
 
